@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\filesandobjects\filesandobjects\bin\Debug\netcoreapp3.1\filesandobjects.exe
+C:\Users\opilane\source\repos\filesandobjects\filesandobjects\bin\Debug\netcoreapp3.1\filesandobjects.deps.json
+C:\Users\opilane\source\repos\filesandobjects\filesandobjects\bin\Debug\netcoreapp3.1\filesandobjects.runtimeconfig.json
+C:\Users\opilane\source\repos\filesandobjects\filesandobjects\bin\Debug\netcoreapp3.1\filesandobjects.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\filesandobjects\filesandobjects\bin\Debug\netcoreapp3.1\filesandobjects.dll
+C:\Users\opilane\source\repos\filesandobjects\filesandobjects\bin\Debug\netcoreapp3.1\filesandobjects.pdb
+C:\Users\opilane\source\repos\filesandobjects\filesandobjects\obj\Debug\netcoreapp3.1\filesandobjects.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\filesandobjects\filesandobjects\obj\Debug\netcoreapp3.1\filesandobjects.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\filesandobjects\filesandobjects\obj\Debug\netcoreapp3.1\filesandobjects.AssemblyInfo.cs
+C:\Users\opilane\source\repos\filesandobjects\filesandobjects\obj\Debug\netcoreapp3.1\filesandobjects.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\filesandobjects\filesandobjects\obj\Debug\netcoreapp3.1\filesandobjects.dll
+C:\Users\opilane\source\repos\filesandobjects\filesandobjects\obj\Debug\netcoreapp3.1\filesandobjects.pdb
+C:\Users\opilane\source\repos\filesandobjects\filesandobjects\obj\Debug\netcoreapp3.1\filesandobjects.genruntimeconfig.cache
